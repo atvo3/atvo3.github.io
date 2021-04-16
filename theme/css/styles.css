@@ -1,0 +1,48 @@
+html,  body {
+    height: 100%;
+    width: 100%;
+    background-color: #d6e2ff;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+article {
+    padding: 2.5%;
+}
+
+.content {
+    background-color: ghostwhite;
+}
+
+.home-card {
+    width: 18rem;
+    height: 10rem;
+}
+
+hr.solid {
+    border-top: 2px solid #999;
+}
+
+.sidebar {
+    background-color: aliceblue;
+    box-shadow: 1px 3px 3px 3px #ccc;
+}
+
+.sidebar-items {
+    margin-left: 10%;
+}
+
+.sidebar-label {
+    margin-left: 0.7em;
+}
+
+i.sidebar-icon {
+    font-size: 1rem;
+}
+
+.h-10 {
+    height: 10% !important;
+}
